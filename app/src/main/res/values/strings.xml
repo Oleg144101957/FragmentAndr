@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentAndr</string>
+    <string name="title">Screen Title</string>
+    <string name="screen1">Screen #%1$d</string>
+    <string name="counterTextView">Screen1</string>
+    <string name="quote">Some quote here</string>
+    <string name="launchNext">Launch Next</string>
+    <string name="backButton">Go Back</string>
+</resources>
